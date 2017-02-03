@@ -1900,8 +1900,7 @@
 		color: #999;
 		font-size: 1.25em;
 		position: relative;
-		margin-top: -1.25em;
-		margin-bottom: 2.25em;
+		margin: 0 15%;
 	}
 
 	header.major {
