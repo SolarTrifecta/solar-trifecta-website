@@ -2705,10 +2705,6 @@
 				margin-bottom: 0.5em;
 			}
 
-			header p {
-				margin-top: -0.75em;
-			}
-
 			header.major {
 				text-align: center;
 				margin: 0 0 2em 0;
@@ -2999,7 +2995,6 @@
 			}
 
 			header p {
-				margin-top: -0.5em;
 				font-size: 1em;
 			}
 
