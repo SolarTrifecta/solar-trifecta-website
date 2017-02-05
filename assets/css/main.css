@@ -2689,13 +2689,6 @@
 		display: none;
 	}
 
-	@media screen and (max-width: 480px) {
-		#titleBar .title {
-			font-size: 1rem;
-			margin-left: .8rem;
-		}
-	}
-
 	@media screen and (max-width: 840px) {
 
 		/* Basic */
@@ -3124,4 +3117,21 @@
 				text-align: left;
 			}
 
+	}
+
+	@media screen and (max-width: 480px) {
+		#titleBar .title {
+			display: none;
+		}
+
+		.titleMobile {
+			color: #fff;
+			display: block;
+			font-size: 1rem;
+			margin-left: 2.5rem;
+		}
+
+		header p {
+			margin: 1rem 5%;
+		}
 	}
