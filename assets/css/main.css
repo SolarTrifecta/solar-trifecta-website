@@ -2689,6 +2689,13 @@
 		display: none;
 	}
 
+	@media screen and (max-width: 480px) {
+		#titleBar .title {
+			font-size: 1rem;
+			margin-left: .8rem;
+		}
+	}
+
 	@media screen and (max-width: 840px) {
 
 		/* Basic */
